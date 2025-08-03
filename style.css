@@ -1,0 +1,12 @@
+body{
+    background-color: lightcoral
+}
+
+
+[type = text]{
+    padding: 10px;
+}
+
+h1{
+    text-align: center;
+}
