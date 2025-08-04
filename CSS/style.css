@@ -5,13 +5,30 @@ body{
 }
 
 
-[type = text]{
-    padding: 10px;
-}
+
 
 h1{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-style:italic;
     text-align: center;
-    padding: 20px;
+    padding: 40px;
+    font-size: 50px;
+}
+h2{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style:italic;
+    text-align: center; 
+}
+
+.welcome{
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+.container{
+    font-size: 20px;
+}
+
+footer{
+    text-align: center;
 }
