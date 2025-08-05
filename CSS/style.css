@@ -35,3 +35,8 @@ footer{
     border: 10px;
 }
 
+.col{
+    font-style: italic;
+    text-align: center;
+    padding: 20px;
+}
