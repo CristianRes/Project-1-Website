@@ -7,8 +7,9 @@ Using the top bar you can move from page to page. Allowing you to look at the me
 Technologies used(.html, .css)
 
 In the future I could work on:
-  Giving some padding to the carousel so it dsen't take up the whole space
 
-  Learn to give sections different colored backgrounds
+Giving some padding to the carousel so it dsen't take up the whole space
 
-  And ask for help more offen when I get stuck
+Learn to give sections different colored backgrounds
+
+And ask for help more offen when I get stuck
